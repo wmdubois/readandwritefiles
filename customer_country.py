@@ -5,5 +5,3 @@ def main():
     outfile = open('customer_country.csv','w')
 
     for rec in file_obj:
-        
-        
