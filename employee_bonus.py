@@ -1,9 +1,5 @@
 print()
-# ID,Name,Age,Salary,HoursWorked,Productivity,Team,Bonus
-#name - 1
-#salary - 3
-#bonus - 7
-#pay - salary + bonus
+
 
 import csv
 
